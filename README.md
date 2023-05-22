@@ -7,4 +7,4 @@ Short report for Credit Union Stefczyk (Gdańsk 2012) https://github.com/milosz1
 
 Full marketing report for Credit Union Stefczyk (Gdańsk 2012) https://github.com/milosz1957/portfolio/files/11534673/Raport-Stefczyk-2-2012.pdf
 
-My lectures from Marketin Comunication Academy. https://github.com/milosz1957/portfolio/files/11534720/Satisfaction_MCA.pdf
+My lectures from Marketing Communication Academy. https://github.com/milosz1957/portfolio/files/11534720/Satisfaction_MCA.pdf
