@@ -13,8 +13,7 @@ library(data.table)
 # Ładuje dane
 load("C:/Users/Admin/Downloads/Projekty R/hungary.RData")
 
-# Tworzenie zbioru Spatial Data Frame
-# Miasta jako punkty
+# Tworzenie zbioru Spatial Data Frame; Miasta jako punkty
 class(fw_trasy_ok)<-'data.frame' # coby mieć punkt wyjścia jednolity
 
 fw_trasy<-fw_trasy %>% ungroup()
