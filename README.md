@@ -10,4 +10,5 @@ Full marketing report for Credit Union Stefczyk (Gdańsk 2012) https://github.co
 My lectures from Marketing Communication Academy. https://github.com/milosz1957/portfolio/files/11534720/Satisfaction_MCA.pdf
 
 # Coding and visualisation
-Easy map in R 
+Easy map in R ![image](https://github.com/milosz1957/portfolio/assets/70690504/c010b202-3a3d-4613-9540-0822b2e07580)
+ 
